@@ -10,5 +10,6 @@ Paleoecological_modelling: contains the code to carry out the paleoecological mo
 
 
 Reference 
+
 1 Rodríguez, J., Willmes, C., Sommer, C. et al. Sustainable human population density in Western Europe between 560.000 and 360.000 years ago. Sci Rep 12, 6907 (2022). https://doi.org/10.1038/s41598-022-10642-w
 
